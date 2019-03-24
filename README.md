@@ -1,2 +1,2 @@
-# WEB-S-TES-H-T-G-NDERME
+# Fake Gönder
 Basit tasarım sayesinde fake hit gönderebilirsiniz.
